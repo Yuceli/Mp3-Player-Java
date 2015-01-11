@@ -1,4 +1,16 @@
+
+#java specific
 *.class
+
+#netbeans ignore personal stuff
+nbproject/
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
